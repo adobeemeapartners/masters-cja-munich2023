@@ -1,7 +1,7 @@
 # Adobe Masters Series: Customer Journey Analytics
 ![Adobe_Masters_CDP_Red-Pink-Blue](https://user-images.githubusercontent.com/61875393/227615983-539ac145-3035-4292-ba9a-74e9732b931b.png)
 
-Adobe Masters CJA Series Landing Page: [adobe.ly/3yZVf0e](adobe.ly/3yZVf0e)
+Adobe Masters CJA Series Landing Page: [http://adobe.ly/3yZVf0e](http://adobe.ly/3yZVf0e)
 
 ## Goal
 
