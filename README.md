@@ -1,27 +1,27 @@
 # Adobe Masters Series: Customer Journey Analytics
 ![Adobe_Masters_CDP_Red-Pink-Blue](https://user-images.githubusercontent.com/61875393/227615983-539ac145-3035-4292-ba9a-74e9732b931b.png)
 
-Series Landing Page: [adobe.ly/3yZVf0e](adobe.ly/3yZVf0e)
-
+Adobe Masters CJA Series Landing Page: [adobe.ly/3yZVf0e](adobe.ly/3yZVf0e)
 
 ## Goal
 
-Learn how to do multi-channel analysis on any of your Experience Platform data sets. Level up your Customer Journey Analytics technical selling skills.
+Learn how to demonstrate the value of Customer Journey Analytics on a real customer problem. 
+Level up your Customer Journey Analytics technical selling skills.
 
 ## Workshop Framing
 
-Thanks for joining this event and learn about the capabilities of Customer Journey Analytics, what problems it can solve, and how you can pitch it to your prospects. Later in the day, you can try to solve a real customer analytics challenge using a ready-made Customer Journey Analytics sandbox. Finally, try to do a demo pitch yourself and get instant feedback from Adobe experts.
+Thanks for joining this event. You will soon learn more about the capabilities of Customer Journey Analytics, what problems it can solve, and how you can pitch it to your prospects. Later in the day, you will try to solve a real customer challenge using a ready-made Customer Journey Analytics sandbox. Finally, do a demo pitch yourself and get instant feedback from Adobe experts.
 
 Here is the situation setup:
 
-You've just completed the discovery with your new prospect for CJA and you will meet with their representatives to present your pitch solving their challenge (incl. CMO, Business Analyst, Intelligence Manager, Director of Privacy, Director of Operations).
+You've just completed the discovery and found a great solution with CJA to solve your prospects challenge. You will be meeting with their representatives to present your pitch and show your solution in action (incl. CMO, Intelligence Manager, Director of Privacy, CRO).
 	
 Based on the given scenario, you will need to do the following:
 	
-* Explore the situation given the customer's current challenges.
-* Discuss various options with your team mates (discovery phase).
-* Create your presentation and pitch your solution to the customer representatives.
-* With the CJA Adobe demo environment at your fingertips, make yourself comfortable using it, customize it and show your solution in action to the customer as part of your pitch.
+* Explore the situation given the customer's current challenges (discovery).
+* Discuss various options with your team mates (solution).
+* Create a pitch and outline your solution to the customer representatives (presentation).
+* With the demo environment at your fingertips, make yourself comfortable using it. Customize it and show it in action (demo).
 
 ## Customer Pitch
 
@@ -29,16 +29,14 @@ The whole presentation (pitch) shouldn't take longer than 10 minutes and will be
 
 When building your presentation try to consider these aspects of a great customer pitch:
 
-* Collaboration and Completeness
-* Potential value and viability of the idea
-* Innovation/Creativity
-* Demonstration - Focus on a customer and solution value (not product capabilities)
+* Collaboration and completeness,
+* Potential value and viability of the idea,
+* Innovation/Creativity,
+* Demonstration - Focus on a customer journey and business value (not product capabilities).
 
 ## Breakouts
 
-Each attendee will be assigned to a team and each team will together try to solve a given scenario from the list below (in the breakout part of the day).
-
-Firstly, we will show you how Adobe does a Customer Journey Analytics pitch. You can take this as an inspiration for your own assignment and there will also be enough time for you to ask any question to the Adobe experts.
+During the day, each attendee will be assigned to a team. Each team will try to solve a given scenario from the list below (in the breakout part). But before we do that, we will show you how Adobe does a Customer Journey Analytics pitch. You can take this as an inspiration for your own assignment and there will also be enough time for you to ask questions to the Adobe experts.
 
 
 ### Scenario 0: SecurFinancial (FSI) -- WILL BE PRESENTED BY ADOBE SOLUTION CONSULTANT
@@ -47,7 +45,6 @@ Challenge:
 
 * SecureFinancial wants to use CJA to understand which digital experiences are not meeting customer expectations that result in support calls. ​
 * The org siloes by BU and channel owner create competing interests with limited incentives to collaborate.  Customer touch points are often managed by different systems that require bespoke IT integrations limit real-time response and coordination.
-
 
 ### Scenario A: Luma (Retail)
 
