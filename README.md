@@ -51,7 +51,7 @@ Challenge:
 Challenge:
 
 * Luma realized they needed to prioritize creating a single source of truth for customer data, eliminating the need to run multiple ad-hoc SQL queries to gain insights about their customer segments.
-* Understanding customer behavior is increasingly challenging as consumers engage in digital channels while most of retail revenue still comes from in-store transactions. Siloed data sources exist across the enterprise with many retailers leveraging legacy systems of record (e.g. Google Analytics UA).
+* Understanding customer behavior is increasingly challenging as consumers engage in digital channels while most of retail revenue still comes from in-store transactions. Siloed data sources exist across the enterprise with many branches leveraging legacy systems of record (e.g. Google Analytics UA).
 
 
 Environments:
