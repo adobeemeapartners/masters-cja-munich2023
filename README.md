@@ -107,6 +107,7 @@ Environments:
 
 ## Links & Assets
 
+* Powerpoint Deck: [MoCJA2023-CJA-presentation-template.pptx](MoCJA2023-CJA-presentation-template.pptx)
 * https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en
 * https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en
 * https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=en
