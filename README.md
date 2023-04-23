@@ -57,7 +57,7 @@ Challenge:
 Environments:
 
 - [https://dsn.adobe.com/web/masters-emeacjaa-web](https://dsn.adobe.com/web/masters-emeacjaa-web) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: XXX (mobile)
+- open DX Demo app on your mobile device, Enter this Project ID: masters-emeacjaa-mob (mobile)
 - Hint: [Sales Play: Google Compete](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/fy23_cja_compete_sales_play_field_positioning_doc.pdf)
 
 ### Scenario B: SecurFinancial (FSI)
@@ -70,7 +70,7 @@ Challenge:
 Environments:
 
 - [https://dsn.adobe.com/web/masters-emeacjab-web](https://dsn.adobe.com/web/masters-emeacjab-web) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: XXX (mobile)
+- open DX Demo app on your mobile device, Enter this Project ID: masters-emeacjab-mob (mobile)
 - Hint: [Sales Play: Integrated Digital Maturity](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/fy23_cja_integrated_digital_maturity_sales_play_field_positioning_doc.pdf)
 
 ### Scenario C: Carvelo (Auto)
@@ -83,7 +83,7 @@ Challenge:
 Environments:
 
 - [https://dsn.adobe.com/web/masters-emeacjac-web](https://dsn.adobe.com/web/masters-emeacjac-web) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: XXX (mobile)
+- open DX Demo app on your mobile device, Enter this Project ID: masters-emeacjac-mob (mobile)
 - Hint: [Sales Play: Digital +](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/cja_digital_plus_field_positioning_document.pdf) 
 
 ### Scenario D: City Signal (Telco)
@@ -96,13 +96,13 @@ Challenge:
 Environments:
 
 - [https://dsn.adobe.com/web/masters-emeacjad-web](https://dsn.adobe.com/web/masters-emeacjad-web) (web)
-- open DX Demo app on your mobile device, Enter this Project ID: XXX (mobile)
+- open DX Demo app on your mobile device, Enter this Project ID: masters-emeacjad-mob (mobile)
 - Hint: [Sales Play: Omnichannel Insights for CDP & AJO](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/cja_omnichannel_insights_for_cdp_and_ajo_field_positioning_doc.pdf) 
 
 ## Adobe Experience Platform
 
 * ISM Org Name: AEP Partner Shared Training Sandbox
-* Sandbox Name: EMEA-CJA-A
+* Sandbox Name: EMEA-CJA-A, B, C, D
 
 
 ## Links & Assets
@@ -117,7 +117,10 @@ Environments:
 * When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01).
 * If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID).
 * Connection is using crmId as PersonID - which means only hits having this attribute will get ingested to CJA.
-* Try sending Call Center API Call: https://reqbin.com/c-foymzygm.
+* Installing the Mobile App: https://dsn.adobe.com/install
+* Try sending Call Center API Call to EMEA-CJA-A: https://reqbin.com/c-foymzygm.
+* Look at the CJA API: https://developer.adobe.com/cja-apis/docs/
+
 
 
 ## Agenda
