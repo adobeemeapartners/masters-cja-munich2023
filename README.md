@@ -56,7 +56,7 @@ Challenge:
 
 Environments:
 
-- [XXX]() (web)
+- [https://dsn.adobe.com/web/masters-emeacjaa-web](https://dsn.adobe.com/web/masters-emeacjaa-web) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: XXX (mobile)
 - Hint: [Sales Play: Google Compete](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/fy23_cja_compete_sales_play_field_positioning_doc.pdf)
 
@@ -69,7 +69,7 @@ Challenge:
 
 Environments:
 
-- [XXX]() (web)
+- [https://dsn.adobe.com/web/masters-emeacjab-web](https://dsn.adobe.com/web/masters-emeacjab-web) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: XXX (mobile)
 - Hint: [Sales Play: Integrated Digital Maturity](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/fy23_cja_integrated_digital_maturity_sales_play_field_positioning_doc.pdf)
 
@@ -82,7 +82,7 @@ Challenge:
 
 Environments:
 
-- [XXX]() (web)
+- [https://dsn.adobe.com/web/masters-emeacjac-web](https://dsn.adobe.com/web/masters-emeacjac-web) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: XXX (mobile)
 - Hint: [Sales Play: Digital +](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/cja_digital_plus_field_positioning_document.pdf) 
 
@@ -95,7 +95,7 @@ Challenge:
 
 Environments:
 
-- [XXX]() (web)
+- [https://dsn.adobe.com/web/masters-emeacjad-web](https://dsn.adobe.com/web/masters-emeacjad-web) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: XXX (mobile)
 - Hint: [Sales Play: Omnichannel Insights for CDP & AJO](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/cja_omnichannel_insights_for_cdp_and_ajo_field_positioning_doc.pdf) 
 
