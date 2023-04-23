@@ -107,12 +107,18 @@ Environments:
 
 ## Links & Assets
 
-* 
+* https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en
+* https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en
+* https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=en
+* https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-faq.html?lang=en#latency
 
 ## Tips and Tricks
-* For every new demo run always use new anonymous (incognito) window or reset the mobile app
-* When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
-* If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID)
+* For every new DSN demo run always use Anonymous (incognito) window or reset the mobile app profile.
+* When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01).
+* If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID).
+* Connection is using crmId as PersonID - which means only hits having this attribute will get ingested to CJA.
+* Try sending Call Center API Call: https://reqbin.com/c-foymzygm.
+
 
 ## Agenda
 
