@@ -119,7 +119,7 @@ Environments:
 * If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID).
 * Connection is using crmId as PersonID - which means only hits having this attribute will get ingested to CJA.
 * Installing the Mobile App: https://dsn.adobe.com/install
-* Try sending Call Center API Call to EMEA-CJA-A: https://reqbin.com/c-foymzygm.
+* Try sending Call Center API Call: https://reqbin.com/c-foymzygm (A), https://reqbin.com/c-b1u9ix9q (D).
 * Look at the CJA API: https://developer.adobe.com/cja-apis/docs/
 
 
